@@ -1,0 +1,10 @@
+#mainlist{
+    list-style: decimal;
+}
+.btn{
+    padding: 5px;
+    background-color:bisque;
+    color: black;
+    border-radius: 4px;
+    margin: 2px;
+}
